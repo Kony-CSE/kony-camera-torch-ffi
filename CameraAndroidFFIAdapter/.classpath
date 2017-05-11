@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry kind="lib" path="D:/AndroidJars/android-support-v4.jar"/>
+	<classpathentry kind="lib" path="D:/Tickets/75957_Getting error during the inclusion of FFI/Solution/classes22/classes.jar"/>
+	<classpathentry kind="lib" path="D:/Tickets/#78119_AndroidGoogleCalendarAPIFFIIntegrationIssues/CalendarClasses.jar"/>
+	<classpathentry kind="lib" path="D:/MyFFIs/MOIAARIntegration/classesaaractual.jar"/>
+	<classpathentry kind="lib" path="D:/AAR Integration Sample/konywidgets.jar"/>
+	<classpathentry kind="lib" path="D:/MyFFIs/JumioSdkIntegration/jumioclasses.jar"/>
+	<classpathentry kind="lib" path="D:/Tickets/#81436_Build Failed for android for tealium FFI integration/Tealiumclasses.jar"/>
+	<classpathentry kind="lib" path="D:/MyFFIs/MiSnapIntegration/MiSnapclasses.jar"/>
+	<classpathentry kind="lib" path="D:/MyFFIs/save to Android/savetoandroidclasses.jar"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>

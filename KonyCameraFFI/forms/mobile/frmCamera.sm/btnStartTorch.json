@@ -1,0 +1,50 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s17a1e91103f4abc8a1f94b3ecf8055c",
+    "_text_": "Start Torch",
+    "_top_": {
+        "type": "string",
+        "value": "55dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "260dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s3d201d7de6f4150b5291802b5f73779",
+    "id": "btnStartTorch",
+    "ide_onClick": "AS_Button_8996f6a9b05e4a6abe522a1bdd5f7d1f",
+    "info": null,
+    "isvisible": true,
+    "kuid": "fc226b521eae4d1d89e7acee40fdcd92",
+    "name": "kony.ui.Button",
+    "parent": "frmCamera",
+    "pf": "frmCamera",
+    "wType": "Button",
+    "zindex": 1
+}

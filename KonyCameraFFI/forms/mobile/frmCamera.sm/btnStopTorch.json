@@ -1,0 +1,50 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "55dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s17a1e91103f4abc8a1f94b3ecf8055c",
+    "_text_": "stopTorch",
+    "_top_": {
+        "type": "string",
+        "value": "152dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "260dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s3d201d7de6f4150b5291802b5f73779",
+    "id": "btnStopTorch",
+    "ide_onClick": "AS_Button_967e91b3651c4766baa44e8f9e7bf6c3",
+    "info": null,
+    "isvisible": true,
+    "kuid": "7eea4e32994b4454a75bcef5ff896c27",
+    "name": "kony.ui.Button",
+    "parent": "frmCamera",
+    "pf": "frmCamera",
+    "wType": "Button",
+    "zindex": 1
+}

@@ -1,0 +1,27 @@
+{
+    "AS_Button_967e91b3651c4766baa44e8f9e7bf6c3": {
+        "id": "AS_Button_967e91b3651c4766baa44e8f9e7bf6c3",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmCamera",
+            "type": "forms",
+            "platform": null,
+            "KUID": "de778c42709c4b368fbb9406bd5846cf"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___032b109ad53548aa807edb47c68712a8",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "onStopCameraFlash",
+            "display": "onStopCameraFlash",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}
